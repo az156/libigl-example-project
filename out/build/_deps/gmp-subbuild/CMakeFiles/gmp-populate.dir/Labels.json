@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/CMakeFiles/gmp-populate"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/CMakeFiles/gmp-populate.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/CMakeFiles/gmp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-build.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-download.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-install.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-test.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/gmp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gmp-populate"
+		],
+		"name" : "gmp-populate"
+	}
+}

@@ -1,0 +1,870 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.22621 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.38.33133 版
+      版权所有(C) Microsoft Corporation。保留所有权利。
+      
+      CMakeCCompilerId.c
+      Microsoft (R) Incremental Linker Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCCompilerId.exe 
+      CMakeCCompilerId.obj 
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/source/libigl-example-project/out/build/CMakeFiles/3.27.2-msvc1/CompilerIdC/CMakeCCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting C compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe 
+      Build flags: -DQT_QML_DEBUG
+      Id flags:  
+      
+      The output was:
+      0
+      用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.38.33133 版
+      版权所有(C) Microsoft Corporation。保留所有权利。
+      
+      CMakeCXXCompilerId.cpp
+      Microsoft (R) Incremental Linker Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      /out:CMakeCXXCompilerId.exe 
+      CMakeCXXCompilerId.obj 
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/source/libigl-example-project/out/build/CMakeFiles/3.27.2-msvc1/CompilerIdCXX/CMakeCXXCompilerId.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1158 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:221 (CMAKE_DETERMINE_MSVC_SHOWINCLUDES_PREFIX)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      Detecting CXX compiler /showIncludes prefix:
+        main.c
+        注意: 包含文件:  C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\ShowIncludes\\foo.h
+        
+      Found prefix "注意: 包含文件:  "
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-h30g6v"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-h30g6v"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-h30g6v'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_fece7
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_fece7.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_fece7.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCCompilerABI.c"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_fece7.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_fece7.dir\\CMakeCCompilerABI.c.obj  /out:cmTC_fece7.exe /implib:cmTC_fece7.lib /pdb:cmTC_fece7.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:2 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-jeixbk"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-jeixbk"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-jeixbk'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_32578
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_32578.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_32578.dir\\ /FS -c "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.27\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_32578.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_32578.dir\\CMakeCXXCompilerABI.cpp.obj  /out:cmTC_32578.exe /implib:cmTC_32578.lib /pdb:cmTC_32578.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "out/build/_deps/libigl-src/cmake/igl/modules/core.cmake:24 (find_package)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:32 (include)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:54 (_igl_include_full)"
+      - "out/build/_deps/libigl-src/cmake/libigl.cmake:15 (igl_include)"
+      - "out/build/_deps/libigl-src/CMakeLists.txt:151 (include)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ehao8k"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ehao8k"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ehao8k'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_80ee0
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_80ee0.dir\\src.c.obj /FdCMakeFiles\\cmTC_80ee0.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehao8k\\src.c
+        FAILED: CMakeFiles/cmTC_80ee0.dir/src.c.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo -DCMAKE_HAVE_LIBC_PTHREAD  /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_80ee0.dir\\src.c.obj /FdCMakeFiles\\cmTC_80ee0.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehao8k\\src.c
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehao8k\\src.c(1): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "out/build/_deps/libigl-src/cmake/igl/modules/core.cmake:24 (find_package)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:32 (include)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:54 (_igl_include_full)"
+      - "out/build/_deps/libigl-src/cmake/libigl.cmake:15 (igl_include)"
+      - "out/build/_deps/libigl-src/CMakeLists.txt:151 (include)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-zgia6e"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-zgia6e"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-zgia6e'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_7bb02
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_7bb02.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_7bb02.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zgia6e\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7bb02.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7bb02.dir\\CheckFunctionExists.c.obj  /out:cmTC_7bb02.exe /implib:cmTC_7bb02.lib /pdb:cmTC_7bb02.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_7bb02.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_7bb02.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7bb02.dir\\CheckFunctionExists.c.obj  /out:cmTC_7bb02.exe /implib:cmTC_7bb02.lib /pdb:cmTC_7bb02.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthreads.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_7bb02.dir\\CheckFunctionExists.c.obj /out:cmTC_7bb02.exe /implib:cmTC_7bb02.lib /pdb:cmTC_7bb02.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_7bb02.dir/intermediate.manifest CMakeFiles\\cmTC_7bb02.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: 无法打开文件“pthreads.lib”\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "out/build/_deps/libigl-src/cmake/igl/modules/core.cmake:24 (find_package)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:32 (include)"
+      - "out/build/_deps/libigl-src/cmake/igl/igl_include.cmake:54 (_igl_include_full)"
+      - "out/build/_deps/libigl-src/cmake/libigl.cmake:15 (igl_include)"
+      - "out/build/_deps/libigl-src/CMakeLists.txt:151 (include)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-hqk79c"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-hqk79c"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-hqk79c'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_2caea
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=pthread_create /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_2caea.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_2caea.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hqk79c\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2caea.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2caea.dir\\CheckFunctionExists.c.obj  /out:cmTC_2caea.exe /implib:cmTC_2caea.lib /pdb:cmTC_2caea.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_2caea.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2caea.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2caea.dir\\CheckFunctionExists.c.obj  /out:cmTC_2caea.exe /implib:cmTC_2caea.lib /pdb:cmTC_2caea.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  pthread.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_2caea.dir\\CheckFunctionExists.c.obj /out:cmTC_2caea.exe /implib:cmTC_2caea.lib /pdb:cmTC_2caea.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_2caea.dir/intermediate.manifest CMakeFiles\\cmTC_2caea.dir/manifest.res" failed (exit code 1104) with the following output:
+        LINK : fatal error LNK1104: 无法打开文件“pthread.lib”\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/PlatformDetect.cmake:3 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for __linux__"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-b2q4pz"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-b2q4pz"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_LINUX"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-b2q4pz'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_9212b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_9212b.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_9212b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b2q4pz\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_9212b.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_9212b.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_9212b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b2q4pz\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b2q4pz\\CheckSymbolExists.cxx(7): error C2065: “__linux__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/PlatformDetect.cmake:4 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for _WIN32"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-j40940"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-j40940"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_WINDOWS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-j40940'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_63377
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_63377.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_63377.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-j40940\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_63377.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_63377.dir\\CheckSymbolExists.cxx.obj  /out:cmTC_63377.exe /implib:cmTC_63377.lib /pdb:cmTC_63377.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/PlatformDetect.cmake:5 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for __APPLE__"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-p4zd61"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-p4zd61"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_APPLE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-p4zd61'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_c69f3
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_c69f3.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_c69f3.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p4zd61\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_c69f3.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_c69f3.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_c69f3.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p4zd61\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p4zd61\\CheckSymbolExists.cxx(7): error C2065: “__APPLE__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/PlatformDetect.cmake:6 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for __ANDROID__"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-3jf44i"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-3jf44i"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_ANDROID"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-3jf44i'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_56a77
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_56a77.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_56a77.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3jf44i\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_56a77.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_56a77.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_56a77.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3jf44i\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3jf44i\\CheckSymbolExists.cxx(7): error C2065: “__ANDROID__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/PlatformDetect.cmake:7 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:30 (include)"
+    checks:
+      - "Looking for __FreeBSD__"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gh0rd1"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gh0rd1"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_FREEBSD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gh0rd1'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_db18b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_db18b.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_db18b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gh0rd1\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_db18b.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_db18b.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_db18b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gh0rd1\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gh0rd1\\CheckSymbolExists.cxx(7): error C2065: “__FreeBSD__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:2 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    checks:
+      - "Looking for _M_IX86"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-9vtx4q"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-9vtx4q"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_X86"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-9vtx4q'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_d7b21
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_d7b21.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_d7b21.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9vtx4q\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_d7b21.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_d7b21.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_d7b21.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9vtx4q\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9vtx4q\\CheckSymbolExists.cxx(7): error C2065: “_M_IX86”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckSymbolExists.cmake:140 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckCXXSymbolExists.cmake:72 (__CHECK_SYMBOL_EXISTS_IMPL)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/CheckPreprocessor.cmake:5 (check_cxx_symbol_exists)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:3 (check_preprocessor)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    checks:
+      - "Looking for __GNUC__"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gji600"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gji600"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "USE_GNUC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-gji600'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_edd8f
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_edd8f.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_edd8f.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gji600\\CheckSymbolExists.cxx
+        FAILED: CMakeFiles/cmTC_edd8f.dir/CheckSymbolExists.cxx.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_edd8f.dir\\CheckSymbolExists.cxx.obj /FdCMakeFiles\\cmTC_edd8f.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gji600\\CheckSymbolExists.cxx
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gji600\\CheckSymbolExists.cxx(7): error C2065: “__GNUC__”: 未声明的标识符
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is AppleClang using "--version" did not match "(Apple (clang|LLVM) version)":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is Clang using "--version" did not match "(clang version)":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is ARMClang using "--version" did not match "armclang":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is HP using "-V" did not match "HP C":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : -V
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is Intel using "--version" did not match "(ICC)":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is IntelLLVM using "--version" did not match "(Intel[^
+      ]+oneAPI)":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : --version
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is SunPro using "-V" did not match "Sun C":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : -V
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1120 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is XL using "-qversion" did not match "XL C":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+      MASM : warning A4018:invalid command-line option : -qversion
+      MASM : fatal error A1017:missing source filename
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1107 (message)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CMakeDetermineASM_MASMCompiler.cmake:17 (include)"
+      - "out/build/_deps/boost-cmake-src/libs/context.cmake:15 (enable_language)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    message: |
+      Checking whether the ASM_MASM compiler is MSVC using "-?" matched "Microsoft":
+      Microsoft (R) Macro Assembler (x64) Version 14.38.33133.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+      
+              ML64 [ /options ] filelist [ /link linkoptions ]
+      
+      /Bl<linker> Use alternate linker          /Sf Generate first pass listing
+      /c Assemble without linking               /Sl<width> Set line width
+      /Cp Preserve case of user identifiers     /Sn Suppress symbol-table listing
+      /Cx Preserve case in publics, externs     /Sp<length> Set page length
+      /D<name>[=text] Define text macro         /Ss<string> Set subtitle
+      /EP Output preprocessed listing to stdout /St<string> Set title
+      /F <hex> Set stack size (bytes)           /Sx List false conditionals
+      /Fe<file> Name executable                 /Ta<file> Assemble non-.ASM file
+      /Fl[file] Generate listing                /w Same as /W0 /WX
+      /Fm[file] Generate map                    /WX Treat warnings as errors
+      /Fo<file> Name object file                /W<number> Set warning level
+      /Fr[file] Generate limited browser info   /X Ignore INCLUDE environment path
+      /FR[file] Generate full browser info      /Zd Add line number debug info
+      /I<name> Add include path                 /Zf Make all symbols public
+      /link <linker options and libraries>      /Zi Add symbolic debug info
+      /nologo Suppress copyright message        /Zp[n] Set structure alignment
+      /Sa Maximize source listing               /Zs Perform syntax check only
+      /ZH:MD5 Use MD5 for checksum in debug info
+      /ZH:SHA_256 Use SHA256 for checksum in debug info (default)
+      /Gy[-] separate functions for linker      /quiet Suppress 'Assembling' message
+      /errorReport:<option> Deprecated. Report internal assembler errors to Microsoft
+          none - do not send report
+          prompt - prompt to immediately send report
+          queue - at next admin logon, prompt to send report
+          send - send report automatically
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/FindIconv.cmake:35 (check_function_exists)"
+      - "out/build/_deps/boost-cmake-src/cmake/Modules/FindIconv.cmake:47 (_iconv_find)"
+      - "out/build/_deps/boost-cmake-src/libs/locale.cmake:30 (find_package)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    checks:
+      - "Looking for iconv"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-0jv0g0"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-0jv0g0"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_ICONV_IN_LIBC"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-0jv0g0'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_4d845
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS -DCHECK_FUNCTION_EXISTS=iconv /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_4d845.dir\\CheckFunctionExists.c.obj /FdCMakeFiles\\cmTC_4d845.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0jv0g0\\CheckFunctionExists.c
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4d845.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4d845.dir\\CheckFunctionExists.c.obj  /out:cmTC_4d845.exe /implib:cmTC_4d845.lib /pdb:cmTC_4d845.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        FAILED: cmTC_4d845.exe 
+        cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_4d845.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4d845.dir\\CheckFunctionExists.c.obj  /out:cmTC_4d845.exe /implib:cmTC_4d845.lib /pdb:cmTC_4d845.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        LINK Pass 1: command "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_4d845.dir\\CheckFunctionExists.c.obj /out:cmTC_4d845.exe /implib:cmTC_4d845.lib /pdb:cmTC_4d845.pdb /version:0.0 /machine:x64 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\\cmTC_4d845.dir/intermediate.manifest CMakeFiles\\cmTC_4d845.dir/manifest.res" failed (exit code 1120) with the following output:
+        CheckFunctionExists.c.obj : error LNK2019: 无法解析的外部符号 iconv，函数 main 中引用了该符号
+        cmTC_4d845.exe : fatal error LNK1120: 1 个无法解析的外部命令\x0d
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "out/build/_deps/boost-cmake-src/libs/log.cmake:65 (try_compile)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+      binary: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_PTHREAD_MUTEX_ROBUST"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_e644b
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd   _XOPEN_SOURCE=600 _GNU_SOURCE=1 /showIncludes /FoCMakeFiles\\cmTC_e644b.dir\\pthread_mutex_robust.cpp.obj /FdCMakeFiles\\cmTC_e644b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\pthread-mutex-robust\\pthread_mutex_robust.cpp
+        FAILED: CMakeFiles/cmTC_e644b.dir/pthread_mutex_robust.cpp.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd   _XOPEN_SOURCE=600 _GNU_SOURCE=1 /showIncludes /FoCMakeFiles\\cmTC_e644b.dir\\pthread_mutex_robust.cpp.obj /FdCMakeFiles\\cmTC_e644b.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\pthread-mutex-robust\\pthread_mutex_robust.cpp
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        _XOPEN_SOURCE=600
+        c1xx: fatal error C1083: 无法打开源文件: “_XOPEN_SOURCE=600”: No such file or directory
+        _GNU_SOURCE=1
+        c1xx: fatal error C1083: 无法打开源文件: “_GNU_SOURCE=1”: No such file or directory
+        C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\pthread-mutex-robust\\pthread_mutex_robust.cpp(9): fatal error C1083: 无法打开包括文件: “pthread.h”: No such file or directory
+        正在生成代码...
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "out/build/_deps/boost-cmake-src/libs/log.cmake:74 (try_compile)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+      binary: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_ATOMIC_INT32"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_792af
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DBOOST_ALL_NO_LIB=1 -external:IC:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src -external:W0 -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_792af.dir\\atomic_int32.cpp.obj /FdCMakeFiles\\cmTC_792af.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\atomic-int32\\atomic_int32.cpp
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        [2/2] cmd.exe /C "cd . && "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_792af.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\link.exe /nologo CMakeFiles\\cmTC_792af.dir\\atomic_int32.cpp.obj  /out:cmTC_792af.exe /implib:cmTC_792af.lib /pdb:cmTC_792af.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "out/build/_deps/boost-cmake-src/libs/log.cmake:98 (try_compile)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+      binary: "C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "HAVE_NATIVE_SYSLOG"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/_deps/boost-cmake-build/CMakeFiles/CMakeTmp'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_78036
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_78036.dir\\native_syslog.cpp.obj /FdCMakeFiles\\cmTC_78036.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\native-syslog\\native_syslog.cpp
+        FAILED: CMakeFiles/cmTC_78036.dir/native_syslog.cpp.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_78036.dir\\native_syslog.cpp.obj /FdCMakeFiles\\cmTC_78036.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\native-syslog\\native_syslog.cpp
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\_deps\\boost-src\\libs\\log\\config\\native-syslog\\native_syslog.cpp(8): fatal error C1083: 无法打开包括文件: “syslog.h”: No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
+      - "out/build/_deps/boost-cmake-src/libs/mpi.cmake:1 (find_package)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    description: "The MPI test test_mpi for C in mode normal"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ag2bxn"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ag2bxn"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
+      CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_C_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-ag2bxn'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ac219
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_ac219.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_ac219.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ag2bxn\\test_mpi.c
+        FAILED: CMakeFiles/cmTC_ac219.dir/test_mpi.c.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo   /DWIN32 /D_WINDOWS  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_ac219.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_ac219.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ag2bxn\\test_mpi.c
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ag2bxn\\test_mpi.c(1): fatal error C1083: 无法打开包括文件: “mpi.h”: No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
+      - "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.27/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
+      - "out/build/_deps/boost-cmake-src/libs/mpi.cmake:1 (find_package)"
+      - "out/build/_deps/boost-cmake-src/CMakeLists.txt:85 (include)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-of6hdv"
+      binary: "C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-of6hdv"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "-DQT_QML_DEBUG -fPIC"
+      CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
+      CMAKE_EXE_LINKER_FLAGS: "/machine:x64"
+      CMAKE_MODULE_PATH: "C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/igl;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/find;C:/source/libigl-example-project/out/build/_deps/libigl-src/cmake/recipes/external;C:/source/libigl-example-project/cmake;C:/source/libigl-example-project/out/build/_deps/boost-cmake-src/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/source/libigl-example-project/out/build/CMakeFiles/CMakeScratch/TryCompile-of6hdv'
+        
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_1b749
+        [1/2] C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_1b749.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_1b749.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-of6hdv\\test_mpi.cpp
+        FAILED: CMakeFiles/cmTC_1b749.dir/test_mpi.cpp.obj 
+        C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP   -DQT_QML_DEBUG -fPIC  /Zi /Ob0 /Od /RTC1 -MDd /showIncludes /FoCMakeFiles\\cmTC_1b749.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_1b749.dir\\ /FS -c C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-of6hdv\\test_mpi.cpp
+        cl: 命令行 warning D9002 :忽略未知选项“-fPIC”
+        C:\\source\\libigl-example-project\\out\\build\\CMakeFiles\\CMakeScratch\\TryCompile-of6hdv\\test_mpi.cpp(1): fatal error C1083: 无法打开包括文件: “mpi.h”: No such file or directory
+        ninja: build stopped: subcommand failed.
+        
+      exitCode: 1
+...

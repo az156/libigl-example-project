@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate-complete.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-build.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-configure.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-download.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-install.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-patch.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-test.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mpfr-populate"
+		],
+		"name" : "mpfr-populate"
+	}
+}

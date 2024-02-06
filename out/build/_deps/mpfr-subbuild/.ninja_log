@@ -1,0 +1,21 @@
+# ninja log v5
+1	51	7289095038958744	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-mkdir	7cae24e77a70aa87
+1	51	7289095038958744	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-mkdir	7cae24e77a70aa87
+53	7044	7289095108883912	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-download	2d8792f6d6ff4cab
+53	7044	7289095108883912	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-download	2d8792f6d6ff4cab
+7044	7085	7289095109296814	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-update	f13046619945ebe4
+7044	7085	7289095109296814	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-update	f13046619945ebe4
+7087	7131	7289095109746384	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-patch	180bf73a8cb8543f
+7087	7131	7289095109746384	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-patch	180bf73a8cb8543f
+7131	7173	7289095110176306	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-configure	d57d973447e6d5b2
+7131	7173	7289095110176306	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-configure	d57d973447e6d5b2
+7173	7218	7289095110630723	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-build	e91eb49f638a222e
+7173	7218	7289095110630723	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-build	e91eb49f638a222e
+7218	7258	7289095111020165	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-install	479e0654049db1e1
+7218	7258	7289095111020165	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-install	479e0654049db1e1
+7258	7300	7289095111441117	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-test	f68ee9f13de09138
+7258	7300	7289095111441117	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-test	f68ee9f13de09138
+7300	7358	7289095112030767	CMakeFiles/mpfr-populate-complete	2248da7fc2283bc9
+7300	7358	7289095112030767	mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-done	2248da7fc2283bc9
+7300	7358	7289095112030767	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate-complete	2248da7fc2283bc9
+7300	7358	7289095112030767	C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-done	2248da7fc2283bc9

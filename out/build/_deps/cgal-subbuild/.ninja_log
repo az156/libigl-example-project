@@ -1,0 +1,21 @@
+# ninja log v5
+2	76	7271770430912334	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-mkdir	480e2a0aee1dc1c0
+2	76	7271770430912334	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-mkdir	480e2a0aee1dc1c0
+2	345576	7289094993720956	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-download	55fce158e162f0a2
+2	345576	7289094993720956	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-download	55fce158e162f0a2
+345576	345618	7289094994130475	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-update	401edd278225e8c1
+345576	345618	7289094994130475	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-update	401edd278225e8c1
+345619	345666	7289094994613219	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-patch	9fd2675749aa30c4
+345619	345666	7289094994613219	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-patch	9fd2675749aa30c4
+345666	345706	7289094995023222	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-configure	8a1f993ae25e22b0
+345666	345706	7289094995023222	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-configure	8a1f993ae25e22b0
+345707	345752	7289094995476372	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-build	bf416f97e639109d
+345707	345752	7289094995476372	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-build	bf416f97e639109d
+345752	345794	7289094995889624	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-install	8431713ace91907f
+345752	345794	7289094995889624	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-install	8431713ace91907f
+345795	345837	7289094996322665	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-test	993d05913fb758da
+345795	345837	7289094996322665	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-test	993d05913fb758da
+345837	345898	7289094996930639	CMakeFiles/cgal-populate-complete	d3da024f3bacb7b1
+345837	345898	7289094996930639	cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-done	d3da024f3bacb7b1
+345837	345898	7289094996930639	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate-complete	d3da024f3bacb7b1
+345837	345898	7289094996930639	C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-done	d3da024f3bacb7b1

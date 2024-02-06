@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/CMakeFiles/boost-cmake-populate"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/CMakeFiles/boost-cmake-populate.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/CMakeFiles/boost-cmake-populate-complete.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-build.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-configure.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-download.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-install.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-patch.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-test.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost-cmake-populate"
+		],
+		"name" : "boost-cmake-populate"
+	}
+}

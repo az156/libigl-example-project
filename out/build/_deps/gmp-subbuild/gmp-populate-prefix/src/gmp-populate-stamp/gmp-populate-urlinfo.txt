@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/download-gmp-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/verify-gmp-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/gmp-subbuild/gmp-populate-prefix/src/gmp-populate-stamp/extract-gmp-populate.cmake
+source_dir=C:/source/libigl-example-project/out/build/_deps/gmp-src
+work_dir=C:/source/libigl-example-project/out/build/_deps
+url(s)=https://cgal.geometryfactory.com/CGAL/precompiled_libs/auxiliary/x64/GMP/5.0.1/gmp-all-CGAL-3.9.zip
+hash=MD5=508c1292319c832609329116a8234c9f
+no_extract=
+

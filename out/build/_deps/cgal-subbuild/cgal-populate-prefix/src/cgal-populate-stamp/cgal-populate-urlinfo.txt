@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/download-cgal-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/verify-cgal-populate.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-P;C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/extract-cgal-populate.cmake
+source_dir=C:/source/libigl-example-project/out/build/_deps/cgal-src
+work_dir=C:/source/libigl-example-project/out/build/_deps
+url(s)=https://github.com/CGAL/cgal/releases/download/v5.6/CGAL-5.6-library.tar.xz
+hash=MD5=793da2d1597f3a5c0e3524f73a0b4039
+no_extract=
+

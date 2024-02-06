@@ -1,0 +1,14 @@
+# Target labels
+ mpfr-populate
+# Source files and their labels
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/CMakeFiles/mpfr-populate-complete.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-build.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-configure.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-download.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-install.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-mkdir.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-patch.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-test.rule
+C:/source/libigl-example-project/out/build/_deps/mpfr-subbuild/mpfr-populate-prefix/src/mpfr-populate-stamp/mpfr-populate-update.rule

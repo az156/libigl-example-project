@@ -1,0 +1,14 @@
+# Target labels
+ libigl-populate
+# Source files and their labels
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/CMakeFiles/libigl-populate
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/CMakeFiles/libigl-populate.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/CMakeFiles/libigl-populate-complete.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-build.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-configure.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-download.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-install.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-mkdir.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-patch.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-test.rule
+C:/source/libigl-example-project/out/build/_deps/libigl-subbuild/libigl-populate-prefix/src/libigl-populate-stamp/libigl-populate-update.rule

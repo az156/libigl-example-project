@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate-complete.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-build.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-configure.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-download.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-install.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-patch.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-test.rule"
+		},
+		{
+			"file" : "C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cgal-populate"
+		],
+		"name" : "cgal-populate"
+	}
+}

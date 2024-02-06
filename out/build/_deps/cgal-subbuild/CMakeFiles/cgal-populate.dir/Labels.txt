@@ -1,0 +1,14 @@
+# Target labels
+ cgal-populate
+# Source files and their labels
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate-complete.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-build.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-configure.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-download.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-install.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-mkdir.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-patch.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-test.rule
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/cgal-populate-prefix/src/cgal-populate-stamp/cgal-populate-update.rule

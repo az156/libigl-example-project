@@ -1,0 +1,3 @@
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/cgal-populate.dir
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/edit_cache.dir
+C:/source/libigl-example-project/out/build/_deps/cgal-subbuild/CMakeFiles/rebuild_cache.dir

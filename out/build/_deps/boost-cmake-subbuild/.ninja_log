@@ -1,0 +1,21 @@
+# ninja log v5
+3	52	7289095115577262	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-mkdir	18828f2ebb81e24a
+3	52	7289095115577262	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-mkdir	18828f2ebb81e24a
+53	5723	7289095172296565	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-download	7eec398108703294
+53	5723	7289095172296565	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-download	7eec398108703294
+5723	5812	0	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-update	98a373bdd8eb69cb
+5723	5812	0	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-update	98a373bdd8eb69cb
+5812	5854	7289095173598514	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-patch	65ac544db7558fd1
+5812	5854	7289095173598514	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-patch	65ac544db7558fd1
+5855	5901	7289095174053391	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-configure	874d00ebe6141f72
+5855	5901	7289095174053391	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-configure	874d00ebe6141f72
+5902	5940	7289095174470217	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-build	4202bc790b6fd127
+5902	5940	7289095174470217	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-build	4202bc790b6fd127
+5940	5976	7289095174833741	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-install	f013f6e81179a264
+5940	5976	7289095174833741	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-install	f013f6e81179a264
+5977	6017	7289095175231732	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-test	f244af7eaca4e1b4
+5977	6017	7289095175231732	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-test	f244af7eaca4e1b4
+6017	6074	7289095175791576	CMakeFiles/boost-cmake-populate-complete	1c76abb8c83b4285
+6017	6074	7289095175791576	boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-done	1c76abb8c83b4285
+6017	6074	7289095175791576	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/CMakeFiles/boost-cmake-populate-complete	1c76abb8c83b4285
+6017	6074	7289095175791576	C:/source/libigl-example-project/out/build/_deps/boost-cmake-subbuild/boost-cmake-populate-prefix/src/boost-cmake-populate-stamp/boost-cmake-populate-done	1c76abb8c83b4285
